@@ -3,20 +3,20 @@ A collection of Monte Carlo Methods written in Python.
 
 ## Feature Roadmap
 
-- [ ] Direct Simulation
-- [ ] Helpers for repeating and tracing experiments
+- [X] Direct Simulation
+- [X] Helpers for repeating and tracing experiments
 - [ ] Visualizations for experiments
-  - [ ] Simulation results vs. number of repetitions
+  - [X] Simulation results vs. number of repetitions
   - [ ] log-log-plot for showing rate of convergence
   - [ ] Trajectory plots
   - [ ] Histograms
 - [ ] Confidence Intervals
   - [ ] via Chebyshev
-  - [ ] via Hoeffding
-  - [ ] via Central Limit Theorem (asymptotic)
+  - [X] via Hoeffding
+  - [X] via Central Limit Theorem (asymptotic)
 - [ ] Acceptance-Rejection-Method
 - [ ] Examples
-  - [ ] Direct simulation of Genz test functions
+  - [X] Direct simulation of Genz test functions
   - [ ] Cramér-Lundberg-Process for the simulation of ruin problems
   - [ ] Black-Scholes-Model for option pricing
   - [ ] Spherical Process for solving the Dirichlet problem
